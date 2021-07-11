@@ -74,9 +74,9 @@ PCI is black magic. When messing with vfio and legacy hardware, try different co
 
 ***Files that I updated/created***
 
-* (/etc/default/grub)[files/vfio/default.grub]
-* (/etc/modprobe.d/vfio.conf)[files/vfio/modprobe.d.vfio.conf]
-* (/etc/modules-load.d/vfio-pci.conf)[files/vfio/vfio-pci.conf]
-* (/etc/modules)[files/vfio/etc.modules]
+* [/etc/default/grub](files/vfio/default.grub)
+* [/etc/modprobe.d/vfio.conf](files/vfio/modprobe.d.vfio.conf)
+* [/etc/modules-load.d/vfio-pci.conf](files/vfio/modules-load.d.vfio-pci.conf)
+* [/etc/modules](files/vfio/etc.modules)
 
 
