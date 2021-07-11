@@ -1,0 +1,8 @@
+# /etc/modules: kernel modules to load at boot time.
+#
+# This file contains the names of kernel modules that should be loaded
+# at boot time, one per line. Lines beginning with "#" are ignored.
+
+vfio
+vfio_iommu_type1
+vfio_pci ids=12d8:e111,9004:5078,9004:7850,1186:1300,1186:1301,1000:000f
